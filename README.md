@@ -184,12 +184,3 @@ Copy code
 
 ---
 
-## ✅ Next Steps (Optional – I Recommend)
-I can also:
-- ✅ Create `requirements.txt`
-- ✅ Add Docker + Docker Compose
-- ✅ Add `.env.example`
-- ✅ Configure CORS properly
-- ✅ Improve README for production deployment
-
-Just tell me what you want next 🚀
